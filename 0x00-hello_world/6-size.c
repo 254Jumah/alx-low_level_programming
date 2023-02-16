@@ -1,6 +1,4 @@
-#!/bin/bash
-vi 6-size.c
-#include <stdio.h>
+#nclude <stdio.h>
 
 /**
 *main -Entry point
