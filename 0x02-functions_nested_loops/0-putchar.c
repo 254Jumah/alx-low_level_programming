@@ -1,10 +1,11 @@
 #include "main.h"
 
-/** main-my main entry point
+/**
+ * main-my main entry point
  *returns:will be 0
- *\
+ */
 
-int main (void)
+int main(void)
 
 {
 
