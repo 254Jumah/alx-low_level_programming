@@ -58,7 +58,7 @@ if (j < 0)
 val2 = 0;
 else
 val2 = *(n2 + j) -'0';
-temp_tot = val1 + val2 + overflow
+temp_tot = val1 + val2 + overflow;
 if (temp_tot >= 10)
 overflow = 1;
 else
