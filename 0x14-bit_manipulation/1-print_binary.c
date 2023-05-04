@@ -2,7 +2,7 @@
 
 /**
  * print_binary - prints the binary equivalent of a decimal number
- * @t: number to show in binary
+ * @p: number to show in binary
  */
 void print_binary(unsigned long int n)
 {
@@ -11,7 +11,7 @@ unsigned long int current;
 
 for (i = 63; i >= 0; i--)
 {
-current = t >> i;
+current = p >> i;
 
 if (current & 1)
 {
