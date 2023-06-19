@@ -1,1 +1,1 @@
-structures
+ MY structures project
